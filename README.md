@@ -8,13 +8,14 @@ The project deals with creating a Recipe site that describes different kinds of 
 ## Built With
 HTML
 CSS
+
 - Major languages
 HTML
 - Frameworks
 - Technologies used
 
 ## Live Demo (if available)
-
+*************
 [Live Demo Link](https://livedemo.com)
 
 
@@ -28,8 +29,8 @@ To get a local copy up and running follow these simple example steps.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-Node.js
-nmp
+-Node.js
+-Npm
 
 ### Setup
 `$ git clone https://github.com/bobb-Rob/portfolio-project-1.git`
@@ -52,18 +53,16 @@ Run*
 
 
 ## Authors
-WHyte John
-👤 **Author1**
+Whyte John
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+-* LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
@@ -77,11 +76,15 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-Sir Roberts
-Oyedikamike
-Jowwy
+-Sir Roberts
+
+-Oyedikamike
+
+-Jowwy
+
 - Hat tip to anyone whose code was used
-Google
+- 
+-Google
 - Inspiration
 - etc
 
