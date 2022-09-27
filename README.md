@@ -10,9 +10,7 @@ HTML
 CSS
 
 - Major languages
-HTML
-- Frameworks
-- Technologies used
+- HTML
 
 ## Live Demo (if available)
 *************
@@ -29,8 +27,8 @@ To get a local copy up and running follow these simple example steps.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
--Node.js
--Npm
+- Node.js
+- Npm
 
 ### Setup
 `$ git clone https://github.com/bobb-Rob/portfolio-project-1.git`
@@ -53,6 +51,7 @@ Run*
 
 
 ## Authors
+![image](https://user-images.githubusercontent.com/114124850/192511142-9c408314-68dd-491f-afee-1e1415378095.png)
 Whyte John
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
@@ -76,15 +75,11 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
--Sir Roberts
-
--Oyedikamike
-
--Jowwy
-
+- Sir Roberts
+- Oyedikamike
+- Jowwy
 - Hat tip to anyone whose code was used
-- 
--Google
+- Google
 - Inspiration
 - etc
 
