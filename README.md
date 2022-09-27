@@ -6,10 +6,10 @@ Recipe site
 The project deals with creating a Recipe site that describes different kinds of Recipes. This entails applying the knowledge of Html and probably CSS
 
 ## Built With
-HTML
-CSS
+- HTML
+- CSS
 
-- Major languages
+## Major languages
 - HTML
 
 ## Live Demo (if available)
@@ -75,13 +75,13 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-- Sir Roberts
-- Oyedikamike
-- Jowwy
-- Hat tip to anyone whose code was used
-- Google
-- Inspiration
-- etc
+- **Sir Roberts
+- **Oyedikamike**
+- **Jowwy**
+- **Hat tip to anyone whose code was used
+- **Google**
+- **Inspiration**
+- **etc**
 
 ## 📝 License
 
